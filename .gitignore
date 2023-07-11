@@ -1,1 +1,2 @@
 manifests/traefik-proxy/traefik/dashboard/secret-dashboard.yaml
+manifests/certmananger/issuers/secret-cf-token.yaml

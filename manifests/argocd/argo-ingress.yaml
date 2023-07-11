@@ -26,4 +26,4 @@ spec:
           port: 80
           scheme: h2c
   tls:
-    secretName: local-mambalab-live-staging-tls
+    secretName: local-mambalab-live-tls

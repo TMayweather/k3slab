@@ -23,4 +23,4 @@ spec:
       middlewares:
         - name: default-headers
   tls:
-    secretName: local-mambalab-live-staging-tls
+    secretName: local-mambalab-live-tls
